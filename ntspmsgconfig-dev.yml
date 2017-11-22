@@ -1,0 +1,5 @@
+prop1: Hello sarah chan
+prop2: world,china,usa,india,japan
+etcd:
+   conn:
+     etcdPassword: 123456
