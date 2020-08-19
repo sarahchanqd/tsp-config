@@ -3,4 +3,4 @@ prop2: world,china,usa,india,japan
 from: china
 etcd:
    conn:
-     etcdPassword: 123456
+     etcdPassword: p123456
